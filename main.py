@@ -1,4 +1,4 @@
-my_string = ""
+my_string = "Latvijas Republika"
 x = 0
 for i in my_string:
   x = x + 1
